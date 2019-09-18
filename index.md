@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+## 个人信息
 
-You can use the [editor on GitHub](https://github.com/susuie/susuie.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+周苏梅 | 女 | 1996.12 | 17779142558 | susie8711@163.com | 现居杭州
+学历：本科 / 南昌大学（2014.9-2018.6） 专业：数字媒体技术（计算机系）
+期望职位：web前端开发工程师
+期望薪资：税前11K-16K
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 职业技能
 
-### Markdown
+前端基础：熟练掌握Javascript，jquery,ES6，能使用原生js进行开发，熟悉 js 原型链、闭包、this 绑定等基础知识；
+●JS框架：熟悉模块化开发，熟练掌握Vue，熟悉vue的数据驱动原理，生命周期，插槽，路由使用以及vuex状态管理；
+●UI框架：熟练使用bootstrap，layUI,elementUI,使用过antD，rsuite；
+●网络协议：熟悉http协议，熟悉TCP建立连接和释放连接的过程以及https加密原理；了解websocket协议；
+●可视化：熟练使用echarts,能熟练使用echarts实现饼状图，柱状图，折线图，地图等各类图形
+● 其他： 熟悉Git，能熟练使用Git进行团队项目管理以及协同开发，熟悉webpack的使用；
+● 有Java后端开发经验，使用过springMVC，hibernate开发后端；
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 工作经历
+2018.7-2019.9：江西航天鄱湖云科技有限公司--研发工程师
+2017.10-2018.6：江西航天鄱湖云科技有限公司（研发工程师实习）
 
-```markdown
-Syntax highlighted code block
+## 项目经验
+1）机场项目：参与该项目的前端开发，项目使用技术：vue+vuex+router+axios+mock+elementUI+webpack+arcgis；
+该项目主要为大型机场提供机场内部打车，租车以及人员配备管理服务；在项目中我负责数据展示模块，订单管理和客服管理模块的前端开发；通过该项目我了解了arcgis地图服务技术，加深了对vue的理解和使用；
+2）党建云平台（PC端+移动端）：在项目中担任前端开发，项目使用技术：PC端：extjs+jquery+echarts;移动端：ionic4+angular7+webpack4+cordova。
+我在该项目PC端参与党务管理和党建一张图子系统的前端开发，当时碰到的难题是在测试阶段提出要兼容IE8，通过查找资料，demo测试，最后通过css hack和polyfill，然后对框架版本也做了降版本处理，问题得以解决；
+移动端主要是党建评价功能，我参与开发了任务管理模块，在技术选择上考虑到跨平台以及框架易用性等问题；该项目的难题是移动端的适配问题；
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/susuie/susuie.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
