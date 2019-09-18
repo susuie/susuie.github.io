@@ -20,9 +20,10 @@
 2017.10-2018.6：江西航天鄱湖云科技有限公司（研发工程师实习）
 
 ## 项目经验
-1）机场项目：参与该项目的前端开发，项目使用技术：vue+vuex+router+axios+mock+elementUI+webpack+arcgis；
+1.**机场项目**：参与该项目的前端开发，项目使用技术：vue+vuex+router+axios+mock+elementUI+webpack+arcgis；
 该项目主要为大型机场提供机场内部打车，租车以及人员配备管理服务；在项目中我负责数据展示模块，订单管理和客服管理模块的前端开发；通过该项目我了解了arcgis地图服务技术，加深了对vue的理解和使用；
-2）党建云平台（PC端+移动端）：在项目中担任前端开发，项目使用技术：PC端：extjs+jquery+echarts;移动端：ionic4+angular7+webpack4+cordova。
+
+2.**党建云平台**（PC端+移动端）：在项目中担任前端开发，项目使用技术：PC端：extjs+jquery+echarts;移动端：ionic4+angular7+webpack4+cordova。
 我在该项目PC端参与党务管理和党建一张图子系统的前端开发，当时碰到的难题是在测试阶段提出要兼容IE8，通过查找资料，demo测试，最后通过css hack和polyfill，然后对框架版本也做了降版本处理，问题得以解决；
 移动端主要是党建评价功能，我参与开发了任务管理模块，在技术选择上考虑到跨平台以及框架易用性等问题；该项目的难题是移动端的适配问题；
 
