@@ -11,7 +11,7 @@
 ●JS框架：熟悉模块化开发，熟练掌握Vue，熟悉vue的数据驱动原理，生命周期，插槽，路由使用以及vuex状态管理；
 ●UI框架：熟练使用bootstrap，layUI,elementUI,使用过antD，rsuite；
 ●网络协议：熟悉http协议，熟悉TCP建立连接和释放连接的过程以及https加密原理；了解websocket协议；
-●可视化：熟练使用echarts,能熟练使用echarts实现饼状图，柱状图，折线图，地图等各类图形
+●可视化：熟练使用echarts,能熟练使用echarts实现饼状图，柱状图，折线图，地图等各类图形；
 ● 其他： 熟悉Git，能熟练使用Git进行团队项目管理以及协同开发，熟悉webpack的使用；
 ● 有Java后端开发经验，使用过springMVC，hibernate开发后端；
 
